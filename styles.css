@@ -220,6 +220,7 @@ header > img {
     color: #666;
     text-align: justify;
     margin-top: 1rem;
+    text-transform: none;
  }
 
  .btn-content {
@@ -352,7 +353,7 @@ header > img {
     padding: .7rem 1rem;
     font-size: 2rem;
     color: var(--shrub);
-    background: rgba(38, 138, 127, 0.08);
+    background: rgba(38, 138, 127, 0.2);
     z-index: 1;
     border-radius: .5rem;
  }
